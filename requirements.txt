@@ -27,7 +27,7 @@ folium==0.10.1
 future==0.18.2
 geographiclib==1.50
 geopy==1.21.0
-httpie==2.2.0
+httpie==3.1.0
 hyperlink==19.0.0
 idna==2.9
 incremental==17.5.0
